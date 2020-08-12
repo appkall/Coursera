@@ -1,2 +1,4 @@
 # Courses
-Code written for "Introduction to Data Science in Python" (Coursera)
+Code written for Coursera Specializations:
+  - Python for Everybody
+  - Applied Data Science with Python
