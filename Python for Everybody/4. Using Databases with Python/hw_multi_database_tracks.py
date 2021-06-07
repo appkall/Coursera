@@ -1,4 +1,3 @@
-#2021 Update
 #HW: Multi-Database - Tracks
 
 import xml.etree.ElementTree as ET
