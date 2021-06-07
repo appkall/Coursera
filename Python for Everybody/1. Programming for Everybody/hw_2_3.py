@@ -1,4 +1,3 @@
-#2021 Update
 #Assignment 2.3
 
 # This first line is provided for you
